@@ -1,0 +1,29 @@
+yfinance
+scikit-learn
+matplotlib
+numpy
+pandas
+streamlit
+alpaca-trade-api
+ccxt
+apscheduler
+datetime
+# Note: This file is used to specify the dependencies for the project.
+# You can install these dependencies using pip: 
+# pip install -r requirements.txt
+# Make sure to run this command in the terminal where your Python environment is set up.
+# If you are using a virtual environment, ensure it is activated before running the command.
+# This will install all the required packages listed in this file.
+# If you encounter any issues, check that your Python version is compatible with these packages.
+# You can also add any additional packages you need for your project here.
+# If you need to update any package versions, you can specify them like this:
+# package_name==version_number
+# For example: yfinance==0.1.63
+# If you want to install a specific version of a package, you can specify it like this:
+# package_name>=version_number
+# For example: scikit-learn>=0.24.2
+# If you want to install the latest version of a package, you can simply write:
+# package_name# For example: matplotlib    
+# This file is essential for managing project dependencies and ensuring that your environment is set up correctly.
+
+
